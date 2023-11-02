@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Andi Ichwan Farmawan
+# D121211025
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WebApp dapat diakses melalui [Tugas Mid Website](https://mid-web-virid vercel.app/).
 
 ## Available Scripts
 
