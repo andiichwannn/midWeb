@@ -1,7 +1,7 @@
 # Andi Ichwan Farmawan
 # D121211025
 
-WebApp dapat diakses melalui [Tugas Mid Website](https://mid-web-virid vercel.app/).
+WebApp dapat diakses melalui [Tugas Mid Website](https://mid-web-virid.vercel.app/).
 
 ## Available Scripts
 
